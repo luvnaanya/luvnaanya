@@ -1,8 +1,6 @@
 ### Hi, I'm Luvna Anya Putri! 
 A passionate Fintech Enthusiast and detail-oriented Administrative Support professional, currently diving into the world of Front-End Development and UI/UX Design to build beautiful and intuitive digital experiences.
-I'm on an exciting journey, blending my background in administration with a newfound passion for technology. My goal is to create seamless and user-centric applications, especially within the fintech space. I believe that great design and clean code can make financial tools more accessible and empowering for everyone.
-
-### 💻 Tech Stack & Tools
+I'm on an exciting journey, blending my background in administration with a newfound passion for technology. My goal is to create seamless and user-centric applications, especially within the fintech space. 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" alt="Tech Stack" />
 <br>
