@@ -11,5 +11,5 @@ I'm on an exciting journey, blending my background in administration with a newf
 
 🔗 Connect with Me
 <p>
-<a href="www.linkedin.com/in/luvna-anya-605537308" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luvna-anya-605537308" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
